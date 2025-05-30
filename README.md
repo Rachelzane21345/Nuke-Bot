@@ -20,3 +20,4 @@ Make sure all requirements are installed by Running Install Bat
 Put user token within tokens file (can have multiple)
 Run Start Bat
 Execute Nuke command within a server you have perms!
+![image](https://github.com/user-attachments/assets/b87e9b1f-1df2-45bf-a524-4bd6c6b9163d)
