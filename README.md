@@ -30,6 +30,7 @@ Execute Nuke command within a server you have perms!
 3) $dab - will give you admin into the server
 
 **how to setup the bot**
+- Disable antivirus to avoid having issues
 - Download Python 3.5.3 (https://www.python.org/downloads/release/python-353/) THIS WILL NOT WORK ON ANY OTHER VERSIONS!!
 - When you are downloading make sure to tick the "Add python 3.5 to PATH" THIS WILL NOT WORK IF YOU DO NOT TICK IT!!
 - After python is installed go to your CMD Prompt and type in **"pip install discord.py"** wait for it to install.
